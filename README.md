@@ -1,6 +1,7 @@
 ## My Portfolio Website ✨
 
-A **Personal Portfolio Website** built using **HTML**, **CSS**, and **JavaScript**. It showcases my skills, projects, and contact information in a professional and user-friendly design, with support for both light and dark modes.  
+A **Personal Portfolio Website** built using **HTML**, **CSS**, and **JavaScript**. It showcases my skills, projects, and contact information 
+in a professional and user-friendly design, with support for both light and dark modes.  
 
 ---
 
@@ -23,10 +24,14 @@ A **Personal Portfolio Website** built using **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📂 Screenshots
+## 📸  Screenshots
 ![image](https://github.com/user-attachments/assets/9343e9b7-cb35-451e-b6cd-e3cd9f912507)
 
 
 ## 🚀 Live Demo
+https://fathima-sameerah.github.io/My-Portfolio-Website/
+
+## 👩‍💻 Author
+Fathima Sameerah
 
 
