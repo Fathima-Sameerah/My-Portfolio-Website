@@ -3,12 +3,12 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a web developer.  
 
 
-## Portfolio Screenshot 
+## 🚀 Portfolio Screenshot 
 ![image](https://github.com/user-attachments/assets/d0309f65-dc7b-4e10-af57-1244a2625a24)
 
 
 ## 🔗 Live Demo  
-Visit My Portfolio ((https://fathima-sameerah.github.io/My-Portfolio-Website/)])  
+Visit My Portfolio (https://fathima-sameerah.github.io/My-Portfolio-Website/) 
 
 ## 🚀 Features  
 - 🌐 **Responsive Design** – Works on all screen sizes  
