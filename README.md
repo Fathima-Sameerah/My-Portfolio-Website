@@ -1,20 +1,24 @@
-## Responsive Portfolio Website ✨
+# 🌟 My Portfolio Website  
 
-Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
-Website contains: 
-- Header 
-- Home
-- About
-- Skills
-- Qualification
-- Services
-- Portfolio
-- Project in mind
-- Testimonial
-- Contact
-- Footer 
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a web developer.  
 
-If u liked my website and the code was useful to you, <br>
-feel free to leave a star (much appreciated) fork it and customize as you like! :)
 
-- Inspired design by Bedimcode-Alexa design 🙌
+## Portfolio Screenshot 
+![image](https://github.com/user-attachments/assets/d0309f65-dc7b-4e10-af57-1244a2625a24)
+
+
+## 🔗 Live Demo  
+[Visit My Portfolio]([https://your-portfolio-link.com](https://fathima-sameerah.github.io/My-Portfolio-Website/))  
+
+## 🚀 Features  
+- 🌐 **Responsive Design** – Works on all screen sizes  
+- 🎨 **Modern UI/UX** – Clean and interactive design  
+- 🔍 **Projects Showcase** – Display of my best work  
+- 📞 **Contact Form** – Get in touch with me easily  
+- 🌙 **Dark & Light Mode** – User-friendly theme switching  
+
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React.js   
+- **Deployment:** GitHub Pages  
+
+
