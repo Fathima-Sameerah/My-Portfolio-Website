@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 
 ## 🔗 Live Demo  
-[Visit My Portfolio]([https://your-portfolio-link.com](https://fathima-sameerah.github.io/My-Portfolio-Website/))  
+Visit My Portfolio ((https://fathima-sameerah.github.io/My-Portfolio-Website/)])  
 
 ## 🚀 Features  
 - 🌐 **Responsive Design** – Works on all screen sizes  
